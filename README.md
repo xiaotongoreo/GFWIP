@@ -7,9 +7,13 @@
 所以你会接到电话。
 
 在安卓中的运行列表:
+
 miav-cse.avlyun.com[腾讯/安天]
+
 a0.app.xiaomi.com[小米跟踪API]
+
 miui-fxcse.avlyun.com[腾讯/安天】
+
 api.installer.xiaomi.com [应用包扫描AP1]
 
 其中腾讯安天最为恐怖
@@ -21,4 +25,4 @@ api.installer.xiaomi.com [应用包扫描AP1]
 
 方案2:不安装任何国内软件采用ESIM空中卡联网
 
-方案3:物理隔离,使用三星 IPhone GooglePixel Sony等手机并使用非大陆SIM卡
+方案3:物理隔离,使用三星 IPhone[不要使用中国版] GooglePixel Sony等手机并使用非大陆SIM卡
