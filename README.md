@@ -26,3 +26,7 @@ api.installer.xiaomi.com [应用包扫描AP1]
 方案2:不安装任何国内软件采用ESIM空中卡联网
 
 方案3:物理隔离,使用三星 IPhone[不要使用中国版] GooglePixel Sony等手机并使用非大陆SIM卡
+
+
+2023/10/7的ip
+112.54.50.50
